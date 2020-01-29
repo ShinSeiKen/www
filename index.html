@@ -1,28 +1,46 @@
 <!doctype html>
-<html lang="en">
+<html class="no-js"  lang="en">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <title>SEIKEN</title>
-        <!--<script data-ad-client="ca-pub-1456489391618538" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+		<link href="https://fonts.googleapis.com/css?family=Poppins:500" rel="stylesheet" />
+        <title>SeiKen</title>
+		<style>
+* { padding: 0; margin: 0; box-sizing:border-box; }
+body { font-size: 16px; color: #fff; font-family: 'Poppins', sans-serif; overflow-x: hidden; }
+a { color: #fff; text-decoration: none; }
+a:hover, a:focus { color: #fff; text-decoration: underline; }
+
+h2 { text-transform: uppercase; font-size: 4rem; }
+h3 { font-weight: 500; font-size: 1.5rem; margin: 1rem 0; }
+
+.home {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	background: url(banner.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+}
+
+.home:before{ position: absolute; content: ""; top:0; left: 0; width: 100%; height: 100%; background: rgba(60,122,207,.5); }
+.content{ margin-top: -12rem; }
+.container{ z-index: 2; padding:1rem; margin:auto; }
+@media (min-width:768px){.container{width:750px}}
+@media (min-width:992px){.container{width:970px}}
+@media (min-width:1200px){.container{width:1170px}}
+</style>
     </head>
     <body>
-        <p>Coming soon!</p>
-        <ul>
-            <li><a href="https://mhw.seiken.io/">Monster Hunter World Leaderboards</a></li>
-            <li><a href="https://iceborne.seiken.io/">Monster Hunter World: Iceborne Leaderboards</a></li>
-        </ul>
-
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- Horizontal Ad 1 -->
-        <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-1456489391618538"
-            data-ad-slot="2174915629"
-            data-ad-format="auto"
-            data-full-width-responsive="true"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+		<section class="home">
+			<div class="container">
+				<div class="content">
+					<h2>SeiKen</h2>
+					<h3><a href="https://iceborne.seiken.io/">Monster Hunter World: Iceborne Leaderboards</a></h3>
+					<h3><a href="https://mhw.seiken.io/">Monster Hunter World Leaderboards</a></h3>
+				</div>
+			</div>
+		</section>
     </body>
 </html>
