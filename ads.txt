@@ -173,6 +173,12 @@ rhythmone.com, 1059622079, RESELLER, a670c89d4a324e47
 contextweb.com, 560606, RESELLER, 89ff185a4c4e857c
 telaria.com,ag0sk,DIRECT,1a4e959a1b50034a
 tremorhub.com,ag0sk,DIRECT,1a4e959a1b50034a
+rubiconproject.com, 18224, RESELLER, 0bfd66d529a55807
+smartadserver.com, 1894, RESELLER
+smartadserver.com, 3445, RESELLER
+spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
+spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
+telaria.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a
 
 # AppNexus
 appnexus.com, 7795, DIRECT
