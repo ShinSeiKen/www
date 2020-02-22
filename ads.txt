@@ -8,6 +8,7 @@ contact=https://nitropay.com
 
 # Google
 google.com, pub-9872233689689746, DIRECT, f08c47fec0942fa0
+google.com, pub-9574966072976256, DIRECT, f08c47fec0942fa0
 
 # 152 Media
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
