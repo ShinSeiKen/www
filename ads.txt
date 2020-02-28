@@ -180,6 +180,7 @@ smartadserver.com, 3445, RESELLER
 spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
 spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
 telaria.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a
+emxdgt.com, 1468, RESELLER, 1e1d41537f7cad7f
 
 # AppNexus
 appnexus.com, 7795, DIRECT
