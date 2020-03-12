@@ -181,6 +181,16 @@ spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
 spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
 telaria.com, qc8tl-ehp3i, RESELLER, 1a4e959a1b50034a
 emxdgt.com, 1468, RESELLER, 1e1d41537f7cad7f
+rhythmone.com, 905992537, RESELLER, a670c89d4a324e47 # RhythmOne
+onetag.com, 572a470226457b8, RESELLER # OneTag
+synacor.com, 82177, RESELLER, e108f11b2cdf7d5b
+openx.com, 541002037, RESELLER, 6a698e2ec38604c6
+google.com, pub-7079691902491759, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1468, RESELLER
+advertising.com, 28056, RESELLER
+spotxchange.com,108706, DIRECT, 7842df1d2fe2db34
+telaria.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
+tremorhub.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
 
 # AppNexus
 appnexus.com, 7795, DIRECT
