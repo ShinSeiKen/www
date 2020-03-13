@@ -294,6 +294,32 @@ telaria.com,2g9h1, DIRECT, 1a4e959a1b50034a
 telaria.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
 tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
 tremorhub.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
+distroscale.com, 2901494593, DIRECT
+adtech.com, 11774, DIRECT
+advertising.com, 10152, DIRECT
+advertising.com, 28573, DIRECT
+appnexus.com, 7259, DIRECT
+contextweb.com, 560840, DIRECT, 89ff185a4c4e857c
+google.com, pub-3851171199385532, DIRECT, f08c47fec0942fa0
+google.com, pub-5028215366626589, DIRECT, f08c47fec0942fa0
+indexexchange.com, 191231, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 191512, DIRECT, 50b1c356f2c5c8fc
+lkqd.net, 598, DIRECT, 59c49fa9598a0117
+openx.com, 537139075, DIRECT, 6a698e2ec38604c6
+openx.com, 540884769, DIRECT, 6a698e2ec38604c6
+openx.com, 540911068, DIRECT, 6a698e2ec38604c6
+pubmatic.com, 158001, DIRECT, 5d62403b186f2ace
+pubmatic.com, 159068, DIRECT, 5d62403b186f2ace
+rubiconproject.com, 16578, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 21916, DIRECT, 0bfd66d529a55807
+rhythmone.com, 402505046, DIRECT, a670c89d4a324e47
+rhythmone.com, 4117835252, DIRECT, a670c89d4a324e47
+spotx.tv,119003, DIRECT, 7842df1d2fe2db34
+spotxchange.com, 119003, DIRECT,7842df1d2fe2db34
+telaria.com,2g9h1, DIRECT, 1a4e959a1b50034a
+telaria.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
+tremorhub.com, 2g9h1, DIRECT, 1a4e959a1b50034a
+tremorhub.com,5ew8d-zzcof, DIRECT, 1a4e959a1b50034a
 
 # EMX Digital
 EMXDGT.com, 446, DIRECT, 1e1d41537f7cad7f
