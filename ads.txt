@@ -38,6 +38,7 @@ ad-generation.jp,12474,RESELLER
 districtm.io,100962,RESELLER,3fd707be9c4527c3
 appnexus.com,3663,RESELLER,f5ab79cb980f11d1
 rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 
 
 # AnyClip
@@ -191,6 +192,13 @@ advertising.com, 28056, RESELLER
 spotxchange.com,108706, DIRECT, 7842df1d2fe2db34
 telaria.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
 tremorhub.com,jrkl5-0ac26,DIRECT,1a4e959a1b50034a #EBDA
+emxdgt.com, 1468, RESELLER, 1e1d41537f7cad7f
+appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 100034, RESELLER, 03113cd04947736d
+appnexus.com, 4052, RESELLER
+contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
+openx.com, 540031703, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
 
 # AppNexus
 appnexus.com, 7795, DIRECT
