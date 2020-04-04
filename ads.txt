@@ -21,11 +21,12 @@ pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158136, RESELLER, 5d62403b186f2ace
 appnexus.com, 10239, RESELLER, f5ab79cb980f11d1
 openx.com, 537120563, RESELLER, 6a698e2ec38604c6
-rhythmone.com, 2439829435, RESELLER, a670c89d4a324e47
-emxdgt.com, 326, RESELLER, 1e1d41537f7cad7f
 adtech.com, 12094, RESELLER
 advangelists.com, 8d3bba7425e7c98c50f52ca1b52d3735, RESELLER, 60d26397ec060f98
-
+openx.com, 540995201, RESELLER, 6a698e2ec38604c6 #33Across #hb #tag #viewable
+aol.com, 47594, RESELLER, e1a5b5b6e3255540 #33Across #hb #tag #viewable
+yahoo.com, 55188, RESELLER, e1a5b5b6e3255540 #33Across #tag #ebda
+indexexchange.com, 183635, RESELLER, 50b1c356f2c5c8fc #33Across #hb #tag #viewable
 
 # Amazon UAM
 aps.amazon.com,da657530-03e5-4306-95bc-d4eb370426c9,DIRECT
@@ -315,7 +316,7 @@ adform.com, 183, RESELLER
 freewheel.tv, 33081, RESELLER
 freewheel.tv, 33601, RESELLER
 google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
-
+indexexchange.com, 189872, RESELLER
 
 # OpenX
 openx.com, 539609083, DIRECT, 6a698e2ec38604c6
