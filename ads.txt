@@ -205,7 +205,20 @@ appnexus.com, 4052, RESELLER
 contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
 openx.com, 540031703, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158100, RESELLER, 5d62403b186f2ace
-indexexchange.com, 191387, DIRECT
+indexexchange.com, 191387, RESELLER
+improvedigital.com, 1669, RESELLER # ImproveDigital
+themediagrid.com, P5JONV, RESELLER, 35d5010d7789b49d # Media Grid (IPONWEB)
+video.unrulymedia.com, 905992537, RESELLER # RhythmOne
+pubnx.com, 337-1, RESELLER, 8728b7e97e589da4 # Vertoz
+improvedigital.com, 1175, RESELLER
+freewheel.tv, 1100273, RESELLER
+freewheel.tv, 1100289, RESELLER
+appnexus.com, 11487, RESELLER, f5ab79cb980f11d1
+openx.com, 540022851, RESELLER, 6a698e2ec38604c6
+adform.com, 1819, RESELLER, 9f5210a2f0999e32
+rubiconproject.com, 16568, RESELLER, 0bfd66d529a55807
+spotx.tv, 146631, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 146631, RESELLER, 7842df1d2fe2db34
 
 # AppNexus
 appnexus.com, 7795, DIRECT
